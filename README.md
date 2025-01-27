@@ -1,2 +1,2 @@
-# Ai-Health-Care-Chatbot
-This project is related to Ai Health Care Chatbot
+# AI Health Care Chatbot
+This  is about a Medical healthcarenchatbot using streamlit.
